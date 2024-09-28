@@ -1,4 +1,4 @@
-## ESRGAN_Model
+## ESRGAN_Model ![Repo Stars](https://img.shields.io/github/stars/dino65-dev/lox?style=social) ![Forks](https://img.shields.io/github/forks/dino65-dev/lox?style=social) ![Watchers](https://img.shields.io/github/watchers/dino65-dev/lox?style=social)
  This is ESRGAN_Model Finetuned with 4k video frames.
 ## ESRGAN (Enhanced SRGAN) Fine Tuned Using [:rocket: [[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)] Model.
 
