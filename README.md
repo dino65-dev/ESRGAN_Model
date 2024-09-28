@@ -10,7 +10,7 @@
 ## Test Models
 1. Clone this github repo.
 ```
-git clone https://github.com/xinntao/ESRGAN
+git clone https://github.com/dino65-dev/ESRGAN_Model.git
 cd ESRGAN 
 ```
 2. Place your own low-resolution images in ```./LR``` folder. (There are two sample images - baboon and comic).
