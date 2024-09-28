@@ -16,7 +16,9 @@ cd ESRGAN
 2. Place your own low-resolution images in ```./LR``` folder. (There are two sample images - baboon and comic).
 3. I've downloaded and fine tuned the model. But you can download pretrained models from [Google Drive](https://drive.google.com/drive/u/0/folders/17VYV_SoZZesU6mbxz2dMAIccSSlqLecY) or [Baidu Drive](https://pan.baidu.com/s/1-Lh6ma-wXzfH8NqeBtPaFQ). Place the models in ```./models```. We provide two models with high perceptual quality and high PSNR performance (see [model list](https://github.com/xinntao/ESRGAN/tree/master/models)).
 4. Run test. We provide ESRGAN model and RRDB_PSNR model and you can config in the ```test.py```.
-``` python test.py ```
+```
+ python test.py
+```
 
 
 
